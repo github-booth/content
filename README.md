@@ -11,7 +11,7 @@
 | Platform | [introducing the new apple silicon powered m1 macos larger runner for github actions](https://github.blog/2023-10-02-introducing-the-new-apple-silicon-powered-m1-macos-larger-runner-for-github-actions/) | [Learn how to use Project Fields - GitHub Checkout - YouTube](https://www.youtube.com/watch?v=l83Zr1ckC9s) |
 | Platform |     | [GitHub Enterprise Importer + Bitbucket Server - YouTube](https://www.youtube.com/watch?v=YHryuGAsseg) |
 | Platform | [GitHub Pull Request Merge Queues](https://www.youtube.com/watch?v=XEZMgohmtts) |
-| Security | [playlist](https://youtube.com/playlist?list=PL0lo9MOBetEFKkp9wHULc4JbNwZVVzJNQ&feature=shared) |
+| Security | [Security playlist](https://youtube.com/playlist?list=PL0lo9MOBetEFKkp9wHULc4JbNwZVVzJNQ&feature=shared) |
 | Security | [Integrating GitHub Advanced Security Alerts with Atlassian Jira - YouTube](https://www.youtube.com/watch?v=L8-7KGz7fZw) |
 | Security | [Overview of GitHub Secret Scanning - YouTube](https://www.youtube.com/watch?v=AVB60Vn_uxI) |
 | Security | [introducing auto triage rules for dependabot](https://github.blog/2023-09-14-introducing-auto-triage-rules-for-dependabot/) | [Overview of GitHub Code Scanning - YouTube](https://www.youtube.com/watch?v=nLHi1rZKUcU) |
