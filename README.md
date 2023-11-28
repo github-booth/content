@@ -4,7 +4,7 @@
 | --- | --- | --- |
 | Area | Public Content | YouTube Playlist |
 | Platform |     | [Writing code without the setup with GitHub Codespaces - YouTube](https://www.youtube.com/watch?v=I3UmeNf80e4) |
-| Platform | [GitHub Universe 2023 - Demo Booth (DevEx)](https://youtube.com/playlist?list=PL0lo9MOBetEEzm8JYJolDakwGNoCp2wZR&feature=shared) | [Setting up your GitHub Enterprise licenses with Visual Studio subscriptions](https://www.youtube.com/watch?v=P_zBgp_BE_I) |
+| Platform | [DevEx playlist](https://youtube.com/playlist?list=PL0lo9MOBetEEzm8JYJolDakwGNoCp2wZR&feature=shared) | [Setting up your GitHub Enterprise licenses with Visual Studio subscriptions](https://www.youtube.com/watch?v=P_zBgp_BE_I) |
 | Platform | [5 tips for making your GitHub profile page accessible](https://github.blog/2023-10-26-5-tips-for-making-your-github-profile-page-accessible/) | [GitHub Enterprise Importer + Bitbucket Server - YouTube](https://www.youtube.com/watch?v=YHryuGAsseg) |
 | Platform | [10 things you didnt know you could do with github projects](https://github.blog/2023-08-28-10-things-you-didnt-know-you-could-do-with-github-projects/) | [Authenticating to GitHub the classic way vs the EMU (Enterprise Managed Users) way - YouTube](https://www.youtube.com/watch?v=lwCm1ouN2ig) |
 | Platform | [a checklist and guide to get your repository collaboration ready](https://github.blog/2023-08-04-a-checklist-and-guide-to-get-your-repository-collaboration-ready/) | [Migrate Jenkins, BitBucket Pipelines, and more to GitHub with Actions Importer! - YouTube](https://www.youtube.com/watch?v=S5SdOcw7ck8) |
