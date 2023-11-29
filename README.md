@@ -22,3 +22,5 @@
 | AI  | [Research Quantifying GitHub Copilots Impact on Code Quality - Blog](https://github.blog/2023-10-10-research-quantifying-github-copilots-impact-on-code-quality/) | [Improve Code Performance with GitHub Copilot Chat - YouTube](https://www.youtube.com/watch?v=whhq0-5ibac) |
 | AI  | [How to Responsibly Adopt GitHub Copilot with The GitHub Copilot Trust Center - Blog](https://github.blog/2023-07-25-how-to-responsibly-adopt-github-copilot-with-the-github-copilot-trust-center/) | [Solving Big Problems With GitHub Copilot - YouTube](https://www.youtube.com/watch?v=kgHms6mLqGg) |
 | AI  | [How to Write Better Prompts for GitHub Copilot - Blog](https://github.blog/2023-06-20-how-to-write-better-prompts-for-github-copilot/) | [Using GitHub Copilot for Visual Studio Code with NVDA - YouTube](https://www.youtube.com/watch?v=NsGhRpmIUtY) |
+
+This is a new line where we'll list out some additiona demos
