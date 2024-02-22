@@ -1,6 +1,6 @@
 ## update: new GitHub Copilot demos
 
-Check out these [NEW COPILOT VIDEOS](https://drive.google.com/drive/folders/1yCuMrRftDtC8AyM_ZMPQRcvO-WzsjYM_?usp=sharing)
+New: [Copilot Enterprise Videos](https://drive.google.com/drive/folders/1yCuMrRftDtC8AyM_ZMPQRcvO-WzsjYM_?usp=sharing)
 
 |     |     |     |
 | --- | --- | --- |
